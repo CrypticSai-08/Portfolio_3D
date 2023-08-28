@@ -232,7 +232,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/yoo-yoo1614/workout_guide",
+      source_code_link: "https://github.com/yoo-yoo1614/gym_site",
     },
     {
       name: "Threads Clone",
@@ -253,7 +253,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/yoo-yoo1614/threads_app",
     },
   ];
   
